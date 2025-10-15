@@ -12,6 +12,7 @@
 # Technologies Used
 - **React** – for dynamic component-based UI
 - **Tailwind CSS** – for responsive and elegant styling
+- **HTML5** – for structure and layout
 - **Axios / Fetch API** – for connecting to the backend
 
 # Backend (Server)
