@@ -1,19 +1,19 @@
 # Login Project
-Login Project is a secure and modern user authentication system. The frontend is built using **React and Tailwind CSS**, while the backend is powered by **Node.js and Express** for handling user data and authentication logic.
+Login Authentication Project is a web application built using **React, Tailwind CSS, HTML5, Node.js, and Express.js**. This project demonstrates a simple and secure login system where users can authenticate through a frontend interface connected to a backend API.
 
 # Frontend (Client)
 # Features
--- **Login Page** – Users can enter valid credentials to access the dashboard
--- **Form Validation** – Ensures proper input before submission
--- **Responsive Design** – Works seamlessly across all screen sizes
--- **Modern UI** – Built with Tailwind CSS for a clean, consistent look
--- **API Integration** – Communicates with backend for authentication
+--**Login Page** – Users can enter valid credentials to access the dashboard
+--**Form Validation** – Ensures proper input before submission
+--**Responsive Design** – Works seamlessly across all screen sizes
+--**Modern UI** – Built with Tailwind CSS for a clean and consistent look
+--**API Integration** – Communicates with the backend for authentication
 
 # Technologies Used
--- **React** – for dynamic component-based UI
--- **Tailwind CSS** – for responsive and elegant styling
--- **HTML5** – for structure and layout
--- **Axios** – for connecting to the backend
+--**React** – for dynamic component-based UI
+--**Tailwind CSS** – for responsive and elegant styling
+--**HTML5** – for structure and layout
+--**Axios** – for connecting to the backend API
 
 # Backend (Server)
 # Features
