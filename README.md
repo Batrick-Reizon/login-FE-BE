@@ -3,36 +3,36 @@ Login Project is a secure and modern user authentication system. The frontend is
 
 # Frontend (Client)
 # Features
-**Login Page** – Users can enter valid credentials to access the dashboard
-**Form Validation** – Ensures proper input before submission
-**Responsive Design** – Works seamlessly across all screen sizes
-**Modern UI** – Built with Tailwind CSS for a clean, consistent look
-**API Integration** – Communicates with backend for authentication
+-- **Login Page** – Users can enter valid credentials to access the dashboard
+-- **Form Validation** – Ensures proper input before submission
+-- **Responsive Design** – Works seamlessly across all screen sizes
+-- **Modern UI** – Built with Tailwind CSS for a clean, consistent look
+-- **API Integration** – Communicates with backend for authentication
 
 # Technologies Used
-**React** – for dynamic component-based UI
-**Tailwind CSS** – for responsive and elegant styling
-**HTML5** – for structure and layout
-**Axios** – for connecting to the backend
+-- **React** – for dynamic component-based UI
+-- **Tailwind CSS** – for responsive and elegant styling
+-- **HTML5** – for structure and layout
+-- **Axios** – for connecting to the backend
 
 # Backend (Server)
 # Features
-**User Authentication** – Validates login credentials
-**Secure Data Handling** – Uses Node.js and Express to manage requests
-**CORS Enabled** – Allows frontend-backend communication
-**Environment Configuration** – API keys and DB connections stored securely
+-- **User Authentication** – Validates login credentials
+-- **Secure Data Handling** – Uses Node.js and Express to manage requests
+-- **CORS Enabled** – Allows frontend-backend communication
+-- **Environment Configuration** – API keys and DB connections stored securely
 
 # Technologies Used
-**Node.js** – for server-side scripting
-**Express.js** – for API routing and middleware handling
-**CORS** – for enabling cross-origin access
-**dotenv** – for environment variable management
+-- **Node.js** – for server-side scripting
+-- **Express.js** – for API routing and middleware handling
+-- **CORS** – for enabling cross-origin access
+-- **dotenv** – for environment variable management
 
 # How It Works
--- User enters their username and password on the frontend
--- Data is sent via an API call to the backend
--- Backend validates the credentials
---If valid, user is logged in and redirected to the home/dashboard page
+-ser enters their username and password on the frontend
+Data is sent via an API call to the backend
+Backend validates the credentials
+f valid, user is logged in and redirected to the home/dashboard page
 
 # How to View
 Visit the live version here . Try logging in with valid credentials to explore the app’s functionality.
