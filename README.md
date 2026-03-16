@@ -3,7 +3,7 @@ Login Authentication Project is a web application built using **React, Tailwind 
 
 # Frontend (Client)
 # Features
---**Login Page** – Users can enter valid credentials to access the dashboard
+**Login Page** – Users can enter valid credentials to access the dashboard
 --**Form Validation** – Ensures proper input before submission
 --**Responsive Design** – Works seamlessly across all screen sizes
 --**Modern UI** – Built with Tailwind CSS for a clean and consistent look
