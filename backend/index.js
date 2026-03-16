@@ -25,7 +25,7 @@ app.post("/login", (req, res) => {
 
     if (!finduser) {
         return (
-            res.status(401).status("User not found")
+            res.status(401).send("User not found")
         )
     }
     if (finduser && finduser.password !== password) {
