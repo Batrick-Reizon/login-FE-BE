@@ -35,6 +35,6 @@ The backend validates the credentials.
 If valid, the user is logged in and redirected to the dashboard/home page.
 
 # How to View
-Visit the live version here https://login-fe-be.vercel.app/. Try logging in with valid credentials to explore the app’s functionality.
+Visit the live version here login-fe-be.vercel.app. Try logging in with valid credentials to explore the app’s functionality.
 
 Thank you for checking out my Login Project!
